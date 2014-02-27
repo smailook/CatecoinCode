@@ -1,0 +1,9 @@
+Building CateCoin 
+
+See doc/readme-qt.rst for instructions on building CateCoin -qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CateCoin .
+
+See doc/build-*.txt for instructions on building CateCoin ,
+the intended-for-services, no-graphical-interface, reference
+implementation of CateCoin .
